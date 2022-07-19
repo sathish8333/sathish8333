@@ -1,0 +1,20 @@
+[{
+  "studentId" : 1,
+  "studentName" : "sathish",
+  "studentDepartment": "cse"
+},
+  {
+    "studentId" : 2,
+    "studentName" : "sudheer",
+    "studentDepartment": "cse"
+  },
+  {
+    "studentId" : 3,
+    "studentName" : "ramesh",
+    "studentDepartment": "cse"
+  },
+  {
+    "studentId" : 4,
+    "studentName" : "manohar",
+    "studentDepartment": "cse"
+  }]
